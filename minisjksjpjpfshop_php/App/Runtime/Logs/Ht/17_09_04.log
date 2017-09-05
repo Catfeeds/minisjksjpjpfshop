@@ -1,0 +1,302 @@
+[ 2017-09-04T15:47:12+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000949s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0144s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000100s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.033738s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.033815s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007783s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007839s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010008s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010074s ]
+
+[ 2017-09-04T15:47:12+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000105s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025724s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025800s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000822s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001237s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001290s ]
+
+[ 2017-09-04T15:47:21+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Login/logout.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+
+[ 2017-09-04T15:47:22+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000808s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000862s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: key F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\2d4ce69e9c2d15d777794fcdbaefd3a2.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009769s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000651s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000698s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000816s ]
+
+[ 2017-09-04T15:47:23+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Login/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000878s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0038s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: key F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\2d4ce69e9c2d15d777794fcdbaefd3a2.php 第 24 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007630s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007689s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000548s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000589s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000744s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-09-04T15:47:29+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Login/index.html?key=
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001164s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001240s ]
+SQL: SHOW COLUMNS FROM `lr_adminuser` [ RunTime:0.0479s ]
+SQL: SELECT * FROM `lr_adminuser` WHERE ( name='admin' AND del<1 ) LIMIT 1   [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `lr_program` [ RunTime:0.0066s ]
+SQL: SELECT * FROM `lr_program` LIMIT 1   [ RunTime:0.0005s ]
+NOTIC: [8] Undefined index: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Ht\Controller\LoginController.class.php 第 21 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001288s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001465s ]
+
+[ 2017-09-04T15:47:31+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Index/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001700s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001776s ]
+SQL: SHOW COLUMNS FROM `lr_web` [ RunTime:0.0035s ]
+SQL: SELECT `concent` FROM `lr_web` WHERE ( id=5 ) LIMIT 1   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000089s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000139s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011302s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011380s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000647s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000684s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001362s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001433s ]
+
+[ 2017-09-04T15:47:31+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Page/adminindex.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000853s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000048s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000102s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010759s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000569s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000607s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000963s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001016s ]
+
+[ 2017-09-04T15:47:35+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/News/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001004s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001071s ]
+SQL: SHOW COLUMNS FROM `lr_news` [ RunTime:0.0055s ]
+NOTIC: [8] Undefined index: cid F:\phpStudy\WWW\minisjksjpjpfshop\App\Ht\Controller\NewsController.class.php 第 21 行.
+NOTIC: [8] Undefined index: news_name F:\phpStudy\WWW\minisjksjpjpfshop\App\Ht\Controller\NewsController.class.php 第 22 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_news` LIMIT 1   [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lr_news` ORDER BY id desc LIMIT 0,25   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000061s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: cate_list F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d2c2b9f8ff9f06f54a1098e4e461f41e.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010224s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010272s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000652s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000817s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000853s ]
+
+[ 2017-09-04T15:50:58+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Brand/index.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000861s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `lr_brand` [ RunTime:0.0093s ]
+NOTIC: [8] Undefined index: brand_name F:\phpStudy\WWW\minisjksjpjpfshop\App\Ht\Controller\BrandController.class.php 第 20 行.
+SQL: SELECT COUNT(*) AS tp_count FROM `lr_brand` LIMIT 1   [ RunTime:0.0002s ]
+SQL: SELECT * FROM `lr_brand` LIMIT 0,20   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000109s ]
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\25cfd1a0db0c5cc223023a4a3b031ae2.php 第 23 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009808s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009857s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000618s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000827s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000866s ]
+
+[ 2017-09-04T15:51:04+08:00 ] ::1 /minisjksjpjpfshop/index.php/Ht/Product/pro_tj.html
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001055s ]
+SQL: SHOW COLUMNS FROM `lr_pro_tj` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `lr_pro_tj`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000158s ]
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 23 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 28 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 29 行.
+NOTIC: [8] Undefined index: photo_x F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 52 行.
+NOTIC: [8] Undefined index: shangchang F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 53 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 56 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 57 行.
+NOTIC: [8] Undefined index: price_yh F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 58 行.
+NOTIC: [8] Undefined index: is_show F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 60 行.
+NOTIC: [8] Undefined index: is_hot F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 61 行.
+NOTIC: [8] Undefined index: is_sale F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 62 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 64 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 65 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 66 行.
+NOTIC: [8] Undefined index: pro_buff F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 75 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined index: photo_x F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 52 行.
+NOTIC: [8] Undefined index: shangchang F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 53 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 56 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 57 行.
+NOTIC: [8] Undefined index: price_yh F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 58 行.
+NOTIC: [8] Undefined index: is_show F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 60 行.
+NOTIC: [8] Undefined index: is_hot F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 61 行.
+NOTIC: [8] Undefined index: is_sale F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 62 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 64 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 65 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 66 行.
+NOTIC: [8] Undefined index: pro_buff F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 75 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined index: photo_x F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 52 行.
+NOTIC: [8] Undefined index: shangchang F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 53 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 56 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 57 行.
+NOTIC: [8] Undefined index: price_yh F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 58 行.
+NOTIC: [8] Undefined index: is_show F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 60 行.
+NOTIC: [8] Undefined index: is_hot F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 61 行.
+NOTIC: [8] Undefined index: is_sale F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 62 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 64 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 65 行.
+NOTIC: [8] Undefined index: pro_type F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 66 行.
+NOTIC: [8] Undefined index: pro_buff F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 75 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 78 行.
+NOTIC: [8] Undefined variable: page F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: name F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: shop_id F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: tuijian F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 79 行.
+NOTIC: [8] Undefined variable: page_index F:\phpStudy\WWW\minisjksjpjpfshop\App\Runtime\Cache\Ht\d95871ec702a3aeb3826e9a0ec3aa817.php 第 90 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.045521s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045570s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000639s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000677s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001276s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001351s ]
+

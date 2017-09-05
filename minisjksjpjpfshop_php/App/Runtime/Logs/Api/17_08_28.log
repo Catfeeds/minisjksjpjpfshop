@@ -1,0 +1,1486 @@
+[ 2017-08-28T13:56:38+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000092s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:00:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:02:30+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:02:52+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:03:18+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:03:34+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:03:44+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000052s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:04:12+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:04:50+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:05:13+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:05:19+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:05:32+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:05:57+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:06:03+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:06:13+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:06:40+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:06:57+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:07:05+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:07:10+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:07:42+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:07:56+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:08:13+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:08:33+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:09:28+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:09:52+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:10:09+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:11:53+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:12:58+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000063s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000590s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:13:55+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000089s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:14:05+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:14:34+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:14:42+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000200s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:15:11+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:15:13+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:15:25+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:15:53+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:15:59+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000073s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:18:12+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000098s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000173s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:26:19+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:27:10+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:27:31+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000137s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:28:21+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:28:46+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:29:52+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:30:02+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:30:17+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:30:45+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:34:45+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:34:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:38:13+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:38:15+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:39:34+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:39:36+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000093s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+
+[ 2017-08-28T14:39:58+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000072s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000140s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:40:03+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:40:05+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:40:09+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+
+[ 2017-08-28T14:41:44+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:41:45+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+
+[ 2017-08-28T14:42:49+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:42:52+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+
+[ 2017-08-28T14:43:26+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:43:28+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+
+[ 2017-08-28T14:43:33+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000141s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:44:06+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000072s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:44:22+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:44:58+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+ERR: 1146:Table 'minisjksjpjpfshop.lr_attr_spec_price_store' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `lr_attr_spec_price_store`
+
+[ 2017-08-28T14:46:52+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:46:54+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:46:58+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/searches
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:47:01+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000095s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:47:04+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/searches
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:47:05+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:47:12+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/searches
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000053s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:47:13+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:47:57+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000153s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:47:59+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:48:07+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/searches
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T14:48:08+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000078s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:49:10+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000103s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:49:51+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T14:53:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T15:04:11+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T15:05:18+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:05:21+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000068s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:05:25+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:05:53+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:05:57+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000065s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:06:17+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:07:38+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:07:40+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:07:42+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:07:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:09:19+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:09:27+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:09:29+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:09:50+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:09:52+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:10:18+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:10:20+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:10:24+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:10:28+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct?num=2&key=7&catid=0
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000146s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T15:10:32+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Category/getProduct?num=3&key=7&catid=0
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+ERR: 非法操作:getProduct
+
+[ 2017-08-28T15:10:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:10:54+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:13:22+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:13:26+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:13:35+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:13:45+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:13:47+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000062s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:13:50+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/getProduct
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:14:01+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Product/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:14:44+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:24:06+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000237s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:32:01+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:32:06+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Search/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000054s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:32:07+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:32:29+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:05+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000066s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:28+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Voucher/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000057s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:29+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000105s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:31+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Product/lists
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:32+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Shop/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:49+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000059s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:53+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Web/web
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000071s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:33:55+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:38:29+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:39:33+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000077s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:40:15+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000055s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:41:34+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000070s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:41:36+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Shangchang/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000056s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:41:43+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:41:47+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Shangchang/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:42:01+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:43:39+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:43:42+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Shangchang/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000061s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:43:44+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000058s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:44:00+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Shop/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000063s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:44:02+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000064s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T15:55:34+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000069s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T16:31:26+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000060s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T18:41:48+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000186s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T18:42:21+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Shangchang/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000119s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
+[ 2017-08-28T18:42:27+08:00 ] 127.0.0.1 /minisjksjpjpfshop/index.php/Api/Index/index
+NOTIC: [8] Use of undefined constant SHOW_PAGE_TRACE - assumed 'SHOW_PAGE_TRACE' F:\phpStudy\WWW\minisjksjpjpfshop\App\Common\Conf\debug.php 第 4 行.
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000067s ]
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Undefined variable: sckey F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 33 行.
+NOTIC: [8] Use of undefined constant LOAD_EXT_CONFIG - assumed 'LOAD_EXT_CONFIG' F:\phpStudy\WWW\minisjksjpjpfshop\App\Api\Conf\config.php 第 40 行.
+
