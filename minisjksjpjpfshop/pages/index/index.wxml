@@ -56,7 +56,7 @@
 
   <view class="c">
   
-    <view class="c_a" wx:for="{{item}}" wx:for-item="item2" wx:for-index="id">
+    <view class="c_a" wx:for="{{item}}" wx:for-item="item2" wx:for-index="id" bindtap="liu" data-id="{{item2.id}}">
    
         <view class="c_aa">
          <view class="tie" style="background:red;" wx:if="{{item2.pro_type==2}}">团购</view>
